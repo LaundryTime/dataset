@@ -7,8 +7,8 @@
     "https://www.youtube-nocookie.com/embed/J4o7w_GQaWI",
     "https://www.youtube-nocookie.com/embed/NNWYkLlLVf0"
   ],
-  "bpm": null,
-  "tone": null,
+  "bpm": 125,
+  "tone": "D minor",
   "artistPeople": [
     "Niki Yiannouchu"
   ],
