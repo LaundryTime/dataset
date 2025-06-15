@@ -6,8 +6,8 @@
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/T7JVCz5ImBA"
   ],
-  "bpm": null,
-  "tone": null,
+  "bpm": 125,
+  "tone": "B minor",
   "artistPeople": [
     "Ralf Mackenbach"
   ],
