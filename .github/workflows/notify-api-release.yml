@@ -1,4 +1,5 @@
 name: Notify API repository when release
+
 on:
   workflow_dispatch:
   release:
