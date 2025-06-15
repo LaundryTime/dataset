@@ -21,39 +21,18 @@ To contribute:
 ### ❓ Known missing data
 #### 👦👧 Junior
 <!-- JUNIOR-START -->
-#### 📅 2008
-  - Contestants:
-    - 🇷🇺 **Russia**
-      - Bpm
-      - Tone
-    - 🇨🇾 **Cyprus**
-      - Bpm
-      - Tone
-    - 🇲🇰 **North Macedonia**
-      - Bpm
-      - Tone
-    - 🇬🇷 **Greece**
-      - Bpm
-      - Tone
-    - 🇱🇹 **Lithuania**
-      - Bpm
-      - Tone
-    - 🇧🇬 **Bulgaria**
-      - Bpm
-      - Tone
-
 #### 📅 2009
   - Contestants:
-    - 🇧🇾 **Belarus**
-      - Bpm
-      - Tone
-    - 🇷🇸 **Serbia**
-      - Bpm
-      - Tone
     - 🇳🇱 **Netherlands**
       - Bpm
       - Tone
     - 🇺🇦 **Ukraine**
+      - Bpm
+      - Tone
+    - 🇧🇾 **Belarus**
+      - Bpm
+      - Tone
+    - 🇷🇸 **Serbia**
       - Bpm
       - Tone
 
@@ -62,22 +41,22 @@ To contribute:
     - 🇬🇪 **Georgia**
       - Bpm
       - Tone
+    - 🇲🇩 **Moldova**
+      - Bpm
+      - Tone
     - 🇲🇰 **North Macedonia**
       - Bpm
       - Tone
     - 🇺🇦 **Ukraine**
       - Bpm
       - Tone
-    - 🇲🇩 **Moldova**
-      - Bpm
-      - Tone
 
 #### 📅 2014
   - Contestants:
-    - 🇲🇹 **Malta**
+    - 🇧🇬 **Bulgaria**
       - Bpm
       - Tone
-    - 🇸🇮 **Slovenia**
+    - 🇲🇹 **Malta**
       - Bpm
       - Tone
     - 🇷🇺 **Russia**
@@ -86,31 +65,31 @@ To contribute:
     - 🇧🇾 **Belarus**
       - Bpm
       - Tone
-    - 🇭🇷 **Croatia**
-      - Bpm
-      - Tone
-    - 🇧🇬 **Bulgaria**
-      - Bpm
-      - Tone
     - 🇷🇸 **Serbia**
+      - Bpm
+      - Tone
+    - 🇸🇮 **Slovenia**
+      - Bpm
+      - Tone
+    - 🇭🇷 **Croatia**
       - Bpm
       - Tone
 
 #### 📅 2015
   - Contestants:
+    - 🇸🇮 **Slovenia**
+      - Bpm
+      - Tone
     - 🇦🇱 **Albania**
       - Bpm
       - Tone
     - 🇷🇺 **Russia**
       - Bpm
       - Tone
-    - 🇲🇰 **North Macedonia**
-      - Bpm
-      - Tone
     - 🇬🇪 **Georgia**
       - Bpm
       - Tone
-    - 🇸🇮 **Slovenia**
+    - 🇲🇰 **North Macedonia**
       - Bpm
       - Tone
 <!-- JUNIOR-END -->
