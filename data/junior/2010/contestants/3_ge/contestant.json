@@ -8,8 +8,8 @@
     "https://www.youtube-nocookie.com/embed/yr07WBOZYeg",
     "https://www.youtube-nocookie.com/embed/ukNzjqP5qeo"
   ],
-  "bpm": null,
-  "tone": null,
+  "bpm": 125,
+  "tone": "C minor",
   "artistPeople": [
     "Mariam Kakhelishvili"
   ],
