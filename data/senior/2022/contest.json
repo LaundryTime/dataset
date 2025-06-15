@@ -1,11 +1,9 @@
 {
-  "year": 2022,
   "arena": "PalaOlimpico",
   "city": "Turin",
   "country": "IT",
   "intendedCountry": null,
   "slogan": "The Sound of Beauty",
-  "logoUrl": "https://raw.githubusercontent.com/EurovisionAPI/dataset/main/logos/senior/2022.png",
   "broadcasters": [
     "RAI"
   ],

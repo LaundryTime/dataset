@@ -1,11 +1,9 @@
 {
-  "year": 2013,
   "arena": "Malmö Arena",
   "city": "Malmö",
   "country": "SE",
   "intendedCountry": null,
   "slogan": "We Are One",
-  "logoUrl": "https://raw.githubusercontent.com/EurovisionAPI/dataset/main/logos/senior/2013.png",
   "broadcasters": [
     "SVT"
   ],

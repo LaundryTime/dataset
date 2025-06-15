@@ -1,11 +1,9 @@
 {
-  "year": 2020,
   "arena": "Studio 5 at TVP Headquarters",
   "city": "Warsaw",
   "country": "PL",
   "intendedCountry": null,
   "slogan": null,
-  "logoUrl": "https://raw.githubusercontent.com/EurovisionAPI/dataset/main/logos/junior/2020.png",
   "broadcasters": null,
   "presenters": [
     "Ida Nowakowska-Herndon",

@@ -1,11 +1,9 @@
 {
-  "year": 1981,
   "arena": "Simmonscourt Pavillion, Royal Dublin Society",
   "city": "Dublin",
   "country": "IE",
   "intendedCountry": null,
   "slogan": null,
-  "logoUrl": "https://raw.githubusercontent.com/EurovisionAPI/dataset/main/logos/senior/1981.png",
   "broadcasters": [
     "RTÈ"
   ],

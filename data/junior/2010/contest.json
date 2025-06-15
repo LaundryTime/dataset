@@ -1,11 +1,9 @@
 {
-  "year": 2010,
   "arena": "Minsk Arena",
   "city": "Minsk",
   "country": "BY",
   "intendedCountry": null,
   "slogan": null,
-  "logoUrl": "https://raw.githubusercontent.com/EurovisionAPI/dataset/main/logos/junior/2010.png",
   "broadcasters": null,
   "presenters": [
     "Denis Kourian",

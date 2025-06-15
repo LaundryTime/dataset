@@ -1,11 +1,9 @@
 {
-  "year": 1979,
   "arena": "Binyanei Ha'ouama Centre",
   "city": "Jerusalem",
   "country": "IL",
   "intendedCountry": null,
   "slogan": null,
-  "logoUrl": "https://raw.githubusercontent.com/EurovisionAPI/dataset/main/logos/senior/1979.png",
   "broadcasters": [
     "IBA"
   ],

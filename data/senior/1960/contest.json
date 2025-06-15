@@ -1,11 +1,9 @@
 {
-  "year": 1960,
   "arena": "Royal Festival Hall",
   "city": "London",
   "country": "GB",
   "intendedCountry": null,
   "slogan": null,
-  "logoUrl": "https://raw.githubusercontent.com/EurovisionAPI/dataset/main/logos/senior/1960.png",
   "broadcasters": [
     "BBC"
   ],

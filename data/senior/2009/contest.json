@@ -1,11 +1,9 @@
 {
-  "year": 2009,
   "arena": "Olimpiysky Arena",
   "city": "Moscow",
   "country": "RU",
   "intendedCountry": null,
   "slogan": null,
-  "logoUrl": "https://raw.githubusercontent.com/EurovisionAPI/dataset/main/logos/senior/2009.png",
   "broadcasters": [
     "C1R"
   ],

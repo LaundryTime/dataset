@@ -1,11 +1,9 @@
 {
-  "year": 2007,
   "arena": "Ahoy Arena",
   "city": "Rotterdam",
   "country": "NL",
   "intendedCountry": null,
   "slogan": null,
-  "logoUrl": "https://raw.githubusercontent.com/EurovisionAPI/dataset/main/logos/junior/2007.png",
   "broadcasters": null,
   "presenters": [
     "Sipke Jan Bousema",

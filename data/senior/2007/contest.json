@@ -1,11 +1,9 @@
 {
-  "year": 2007,
   "arena": "Hartwall Arena",
   "city": "Helsinki",
   "country": "FI",
   "intendedCountry": null,
   "slogan": "True Fantasy",
-  "logoUrl": "https://raw.githubusercontent.com/EurovisionAPI/dataset/main/logos/senior/2007.png",
   "broadcasters": [
     "Yleisradio (YLE)"
   ],

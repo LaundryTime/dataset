@@ -1,11 +1,9 @@
 {
-  "year": 1985,
   "arena": "Scandinavium",
   "city": "Gothenburg",
   "country": "SE",
   "intendedCountry": null,
   "slogan": null,
-  "logoUrl": "https://raw.githubusercontent.com/EurovisionAPI/dataset/main/logos/senior/1985.png",
   "broadcasters": [
     "SVT"
   ],

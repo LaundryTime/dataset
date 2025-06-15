@@ -1,11 +1,9 @@
 {
-  "year": 1984,
   "arena": "Théâtre Municipal",
   "city": "Luxembourg",
   "country": "LU",
   "intendedCountry": null,
   "slogan": null,
-  "logoUrl": "https://raw.githubusercontent.com/EurovisionAPI/dataset/main/logos/senior/1984.png",
   "broadcasters": [
     "RTL"
   ],

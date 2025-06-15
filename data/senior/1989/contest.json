@@ -1,11 +1,9 @@
 {
-  "year": 1989,
   "arena": "Palais de Beaulieu",
   "city": "Lausanne",
   "country": "CH",
   "intendedCountry": null,
   "slogan": null,
-  "logoUrl": "https://raw.githubusercontent.com/EurovisionAPI/dataset/main/logos/senior/1989.png",
   "broadcasters": [
     "SRG SSR idée suisse"
   ],

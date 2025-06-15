@@ -1,11 +1,9 @@
 {
-  "year": 2010,
   "arena": "Telenor Arena",
   "city": "Oslo",
   "country": "NO",
   "intendedCountry": null,
   "slogan": "Share the Moment",
-  "logoUrl": "https://raw.githubusercontent.com/EurovisionAPI/dataset/main/logos/senior/2010.png",
   "broadcasters": [
     "NRK"
   ],

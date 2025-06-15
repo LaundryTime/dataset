@@ -1,11 +1,9 @@
 {
-  "year": 2017,
   "arena": "Olympic Palace",
   "city": "Tbilisi",
   "country": "GE",
   "intendedCountry": null,
   "slogan": null,
-  "logoUrl": "https://raw.githubusercontent.com/EurovisionAPI/dataset/main/logos/junior/2017.png",
   "broadcasters": null,
   "presenters": [
     "Helen Kalandadze",

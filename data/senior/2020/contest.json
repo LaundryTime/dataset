@@ -1,11 +1,9 @@
 {
-  "year": 2020,
   "arena": "Rotterdam Ahoy",
   "city": "Rotterdam",
   "country": "NL",
   "intendedCountry": null,
   "slogan": "Open Up",
-  "logoUrl": "https://raw.githubusercontent.com/EurovisionAPI/dataset/main/logos/senior/2020.png",
   "broadcasters": [
     "AVROTROS",
     "NOS",

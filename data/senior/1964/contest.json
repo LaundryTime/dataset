@@ -1,11 +1,9 @@
 {
-  "year": 1964,
   "arena": "Tivolis Koncertsal",
   "city": "Copenhagen",
   "country": "DK",
   "intendedCountry": null,
   "slogan": null,
-  "logoUrl": "https://raw.githubusercontent.com/EurovisionAPI/dataset/main/logos/senior/1964.png",
   "broadcasters": [
     "DR"
   ],

@@ -1,11 +1,9 @@
 {
-  "year": 2023,
   "arena": "Liverpool Arena",
   "city": "Liverpool",
   "country": "GB",
   "intendedCountry": "UA",
   "slogan": "United By Music",
-  "logoUrl": "https://raw.githubusercontent.com/EurovisionAPI/dataset/main/logos/senior/2023.png",
   "broadcasters": [
     "BBC"
   ],

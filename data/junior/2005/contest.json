@@ -1,11 +1,9 @@
 {
-  "year": 2005,
   "arena": "Ethias Arena",
   "city": "Hasselt",
   "country": "BE",
   "intendedCountry": null,
   "slogan": null,
-  "logoUrl": "https://raw.githubusercontent.com/EurovisionAPI/dataset/main/logos/junior/2005.png",
   "broadcasters": null,
   "presenters": [
     "Marcel Vanthilt",

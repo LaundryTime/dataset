@@ -1,11 +1,9 @@
 {
-  "year": 2011,
   "arena": "Karen Demirchyan Sports and Concerts Complex",
   "city": "Yerevan",
   "country": "AM",
   "intendedCountry": null,
   "slogan": null,
-  "logoUrl": "https://raw.githubusercontent.com/EurovisionAPI/dataset/main/logos/junior/2011.png",
   "broadcasters": null,
   "presenters": [
     "Gohar Gasparyan",

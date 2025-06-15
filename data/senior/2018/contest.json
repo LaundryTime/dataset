@@ -1,11 +1,9 @@
 {
-  "year": 2018,
   "arena": "Altice Arena",
   "city": "Lisbon",
   "country": "PT",
   "intendedCountry": null,
   "slogan": "All Aboard!",
-  "logoUrl": "https://raw.githubusercontent.com/EurovisionAPI/dataset/main/logos/senior/2018.png",
   "broadcasters": [
     "Rádio e Televisão de Portugal (RTP)"
   ],

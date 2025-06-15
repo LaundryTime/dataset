@@ -1,11 +1,9 @@
 {
-  "year": 2019,
   "arena": "Expo Tel Aviv",
   "city": "Tel Aviv",
   "country": "IL",
   "intendedCountry": null,
   "slogan": "Dare to Dream",
-  "logoUrl": "https://raw.githubusercontent.com/EurovisionAPI/dataset/main/logos/senior/2019.png",
   "broadcasters": [
     "Israeli Public Broadcasting Corporation (IPBC)"
   ],

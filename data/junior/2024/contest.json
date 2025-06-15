@@ -1,11 +1,9 @@
 {
-  "year": 2024,
   "arena": "Caja Mágica",
   "city": "Madrid",
   "country": "ES",
   "intendedCountry": null,
   "slogan": "Let's Bloom",
-  "logoUrl": "https://raw.githubusercontent.com/EurovisionAPI/dataset/main/logos/junior/2024.png",
   "broadcasters": null,
   "presenters": [
     "Ruth Lorenzo",
