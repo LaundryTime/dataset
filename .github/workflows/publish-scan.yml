@@ -107,16 +107,26 @@ jobs:
           echo "version=$new_version" >> $GITHUB_OUTPUT
 
       - name: Create release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          RELEASE_NAME: ${{ steps.get_version.outputs.version }}
         run: |
           assets=()
           for asset in ./$ARTIFACTS_FOLDER/*.json; do
             assets+=("$asset")
           done
+          gh release create "$RELEASE_NAME" "${assets[@]}" --title "$RELEASE_NAME"
 
-          tag_name=${{ steps.get_version.outputs.version }}
-          gh release create "$tag_name" "${assets[@]}" --title "$tag_name"
+      - name: Notify API repository
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          RELEASE_NAME: ${{ steps.get_version.outputs.version }}
+        run: |
+          curl -X POST \
+            -H "Accept: application/vnd.github+json" \
+            -H "Authorization: Bearer $GITHUB_TOKEN" \
+            https://api.github.com/repos/EurovisionApi/eurovision-api/dispatches \
+            -d "{\"event_type\": \"update-dataset\", \"client_payload\": {\"releaseName\": \"${RELEASE_NAME}\"}}"
 
   scan:
     runs-on: ubuntu-latest
