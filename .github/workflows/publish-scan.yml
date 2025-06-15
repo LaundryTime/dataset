@@ -119,7 +119,7 @@ jobs:
 
       - name: Notify API repository
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.PAT }}
           RELEASE_NAME: ${{ steps.get_version.outputs.version }}
         run: |
           curl -X POST \
