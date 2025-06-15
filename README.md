@@ -21,21 +21,6 @@ To contribute:
 ### ❓ Known missing data
 #### 👦👧 Junior
 <!-- JUNIOR-START -->
-#### 📅 2009
-  - Contestants:
-    - 🇳🇱 **Netherlands**
-      - Bpm
-      - Tone
-    - 🇺🇦 **Ukraine**
-      - Bpm
-      - Tone
-    - 🇧🇾 **Belarus**
-      - Bpm
-      - Tone
-    - 🇷🇸 **Serbia**
-      - Bpm
-      - Tone
-
 #### 📅 2010
   - Contestants:
     - 🇬🇪 **Georgia**
