@@ -23,9 +23,6 @@ To contribute:
 <!-- JUNIOR-START -->
 #### 📅 2010
   - Contestants:
-    - 🇬🇪 **Georgia**
-      - Bpm
-      - Tone
     - 🇲🇩 **Moldova**
       - Bpm
       - Tone
