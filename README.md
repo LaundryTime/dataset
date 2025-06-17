@@ -21,35 +21,7 @@ To contribute:
 ### ❓ Known missing data
 #### 👦👧 Junior
 <!-- JUNIOR-START -->
-#### 📅 2010
-  - Contestants:
-    - 🇲🇩 **Moldova**
-      - Bpm
-      - Tone
-    - 🇲🇰 **North Macedonia**
-      - Bpm
-      - Tone
-    - 🇺🇦 **Ukraine**
-      - Bpm
-      - Tone
-
-#### 📅 2015
-  - Contestants:
-    - 🇸🇮 **Slovenia**
-      - Bpm
-      - Tone
-    - 🇦🇱 **Albania**
-      - Bpm
-      - Tone
-    - 🇷🇺 **Russia**
-      - Bpm
-      - Tone
-    - 🇬🇪 **Georgia**
-      - Bpm
-      - Tone
-    - 🇲🇰 **North Macedonia**
-      - Bpm
-      - Tone
+No missing data
 <!-- JUNIOR-END -->
 
 #### 🧔👩 Senior
