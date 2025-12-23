@@ -36,20 +36,20 @@ jobs:
       CONVERTER_EXE_FOLDER: converter
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
         with:
           path: ${{ env.DATASET_FOLDER }}
 
       - name: Clone tools repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
         with:
           repository: EurovisionAPI/tools
           path: ${{ env.TOOLS_FOLDER }}
 
       - name: Install .NET
-        uses: actions/setup-dotnet@v4
+        uses: actions/setup-dotnet@v5
         with:
-          dotnet-version: 9.0.x
+          dotnet-version: 10.0.x
       
       - name: Build converter
         run: dotnet build $PROJECT_NAME/$PROJECT_NAME.csproj -c Release -o $GITHUB_WORKSPACE/$CONVERTER_EXE_FOLDER
@@ -67,7 +67,7 @@ jobs:
         run: cp $DATASET_FOLDER/data/countries.json $ARTIFACTS_FOLDER
 
       - name: Upload artifacts
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v6
         with:
           name: ${{ env.ARTIFACTS_NAME }}
           path: ${{ env.ARTIFACTS_FOLDER }}/*
@@ -83,7 +83,7 @@ jobs:
           fetch-depth: 0
 
       - name: Download artifacts
-        uses: actions/download-artifact@v4
+        uses: actions/download-artifact@v7
         with:
           name: ${{ env.ARTIFACTS_NAME }}
           path: ${{ env.ARTIFACTS_FOLDER }}
@@ -136,12 +136,12 @@ jobs:
       PROJECT_NAME: Scanner
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
         with:
           path: ${{ env.DATASET_FOLDER }}
 
       - name: Clone tools repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
         with:
           repository: EurovisionAPI/tools
           path: ${{ env.TOOLS_FOLDER }}
@@ -153,9 +153,9 @@ jobs:
           path: ${{ env.ARTIFACTS_FOLDER }}
 
       - name: Install .NET
-        uses: actions/setup-dotnet@v4
+        uses: actions/setup-dotnet@v5
         with:
-          dotnet-version: 9.0.x
+          dotnet-version: 10.0.x
 
       - name: Prueba
         run: echo $ARTIFACTS_FOLDER
@@ -164,7 +164,7 @@ jobs:
         run: dotnet run -c Release --project $TOOLS_FOLDER/$PROJECT_NAME/$PROJECT_NAME.csproj -- -input $ARTIFACTS_FOLDER -readme $DATASET_FOLDER/README.md
     
       - name: Commit README changes
-        uses: stefanzweifel/git-auto-commit-action@v5
+        uses: stefanzweifel/git-auto-commit-action@v7
         with:
           commit_message: Update dataset scan results
           file_pattern: 'README.md'
