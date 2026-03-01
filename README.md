@@ -21,57 +21,7 @@ To contribute:
 ### ❓ Known missing data
 #### 👦👧 Junior
 <!-- JUNIOR-START -->
-#### 📅 2013
-  - Contestants:
-    - 🇺🇦 **Ukraine**
-      - Lyrics
-    - 🇧🇾 **Belarus**
-      - Lyrics
-    - 🇷🇺 **Russia**
-      - Lyrics
-    - 🇬🇪 **Georgia**
-      - Lyrics
-    - 🇦🇲 **Armenia**
-      - Lyrics
-    - 🇦🇿 **Azerbaijan**
-      - Lyrics
-    - 🇳🇱 **Netherlands**
-      - Lyrics
-    - 🇸🇪 **Sweden**
-      - Lyrics
-    - 🇸🇲 **San Marino**
-      - Lyrics
-    - 🇲🇩 **Moldova**
-      - Lyrics
-    - 🇲🇰 **North Macedonia**
-      - Lyrics
-
-#### 📅 2014
-  - Contestants:
-    - 🇦🇲 **Armenia**
-      - Lyrics
-    - 🇲🇹 **Malta**
-      - Lyrics
-    - 🇷🇺 **Russia**
-      - Lyrics
-    - 🇺🇦 **Ukraine**
-      - Lyrics
-    - 🇧🇾 **Belarus**
-      - Lyrics
-    - 🇳🇱 **Netherlands**
-      - Lyrics
-    - 🇷🇸 **Serbia**
-      - Lyrics
-    - 🇸🇮 **Slovenia**
-      - Lyrics
-    - 🇸🇪 **Sweden**
-      - Lyrics
-    - 🇲🇪 **Montenegro**
-      - Lyrics
-    - 🇸🇲 **San Marino**
-      - Lyrics
-    - 🇭🇷 **Croatia**
-      - Lyrics
+No missing data
 <!-- JUNIOR-END -->
 
 #### 🧔👩 Senior
