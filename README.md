@@ -21,40 +21,6 @@ To contribute:
 ### ❓ Known missing data
 #### 👦👧 Junior
 <!-- JUNIOR-START -->
-#### 📅 2010
-  - Contestants:
-    - 🇷🇺 **Russia**
-      - Lyrics
-    - 🇷🇸 **Serbia**
-      - Lyrics
-    - 🇧🇾 **Belarus**
-      - Lyrics
-    - 🇧🇪 **Belgium**
-      - Lyrics
-    - 🇲🇩 **Moldova**
-      - Lyrics
-    - 🇳🇱 **Netherlands**
-      - Lyrics
-    - 🇸🇪 **Sweden**
-      - Lyrics
-
-#### 📅 2012
-  - Contestants:
-    - 🇬🇪 **Georgia**
-      - Lyrics
-    - 🇦🇲 **Armenia**
-      - Lyrics
-    - 🇸🇪 **Sweden**
-      - Lyrics
-    - 🇳🇱 **Netherlands**
-      - Lyrics
-    - 🇧🇾 **Belarus**
-      - Lyrics
-    - 🇲🇩 **Moldova**
-      - Lyrics
-    - 🇦🇿 **Azerbaijan**
-      - Lyrics
-
 #### 📅 2013
   - Contestants:
     - 🇺🇦 **Ukraine**
@@ -105,19 +71,6 @@ To contribute:
     - 🇸🇲 **San Marino**
       - Lyrics
     - 🇭🇷 **Croatia**
-      - Lyrics
-
-#### 📅 2015
-  - Contestants:
-    - 🇧🇾 **Belarus**
-      - Lyrics
-    - 🇦🇱 **Albania**
-      - Lyrics
-    - 🇷🇸 **Serbia**
-      - Lyrics
-    - 🇮🇪 **Ireland**
-      - Lyrics
-    - 🇲🇪 **Montenegro**
       - Lyrics
 <!-- JUNIOR-END -->
 
